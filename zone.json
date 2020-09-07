@@ -1,0 +1,7 @@
+{
+  "zone_file_path": "./zone-file.txt",
+  "hosted_zone_id": "xxxx",
+  "filter_record_types": ["A", "TXT", "AAAA", "CNAME"],
+  "aws_access_key_id": "",
+  "aws_secret_access_key": ""
+}
